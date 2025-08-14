@@ -1,0 +1,19 @@
+// {
+
+//     "LoginPageLocators": {
+
+//         "username_text":"[type="text"]",
+//         "email_text":".signup-form > form > [type="email"
+//         "signup_button:".signup-form > form > .btn"
+
+
+
+//     }
+
+
+
+
+
+
+
+// }
